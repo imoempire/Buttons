@@ -36,8 +36,8 @@ nav ul li {
 
 nav ul li span {
     position: absolute;
-    width: 25%;
     height: 100%;
+    width: 25%;
     background-color: var(--c);
     transform: translateY(150%);
     border-radius: 50%;
